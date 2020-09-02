@@ -1,0 +1,14 @@
+D:\Examples\Problem\Problem\Problem\bin\Debug\netstandard2.0\Problem.deps.json
+D:\Examples\Problem\Problem\Problem\bin\Debug\netstandard2.0\Problem.dll
+D:\Examples\Problem\Problem\Problem\bin\Debug\netstandard2.0\ref\Problem.dll
+D:\Examples\Problem\Problem\Problem\bin\Debug\netstandard2.0\Problem.pdb
+D:\Examples\Problem\Problem\Problem\obj\Debug\netstandard2.0\Problem.csprojAssemblyReference.cache
+D:\Examples\Problem\Problem\Problem\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Examples\Problem\Problem\Problem\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Examples\Problem\Problem\Problem\obj\Debug\netstandard2.0\Problem.AssemblyInfoInputs.cache
+D:\Examples\Problem\Problem\Problem\obj\Debug\netstandard2.0\Problem.AssemblyInfo.cs
+D:\Examples\Problem\Problem\Problem\obj\Debug\netstandard2.0\Problem.csproj.CoreCompileInputs.cache
+D:\Examples\Problem\Problem\Problem\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Examples\Problem\Problem\Problem\obj\Debug\netstandard2.0\Problem.dll
+D:\Examples\Problem\Problem\Problem\obj\Debug\netstandard2.0\ref\Problem.dll
+D:\Examples\Problem\Problem\Problem\obj\Debug\netstandard2.0\Problem.pdb
